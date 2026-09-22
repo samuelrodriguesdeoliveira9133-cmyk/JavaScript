@@ -1,6 +1,6 @@
 let diaDasemana = "quarta-feira"
 
-if (diaDaSemana === "sábado" || diaDaSemana === "domingo") {
+if (diaDaSemana === "sabado" || diaDaSemana === "domingo") {
     console.log("É fim de semana!");
 
 }else{
